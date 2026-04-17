@@ -1,7 +1,7 @@
 # Portfolio---Superstore-Project
 # Business Performance Analysis & Forecasting Dashboard
 
-## Project Overview**
+## Project Overview
 This project analyzes business performance using the Superstore dataset, covering sales growth, customer behavior, profitability, regional performance, and future sales forecasting. The goal is to deliver actionable business insights and support strategic decision-making. 
 
 ## Key Objectives
@@ -38,11 +38,11 @@ This project analyzes business performance using the Superstore dataset, coverin
 * Strong seasonality observed in Q4
 
 ## Tools & Technology
-Python (Pandas, Prophet, Statsmodels)
-Tableau
-DAX
-Data Visualization
-Forecasting Models
+* Python (Pandas, Prophet, Statsmodels)
+* Tableau
+* DAX
+* Data Visualization
+* Forecasting Models
 
 ## Business Recommendations
 * Focus on repeat customer retention
