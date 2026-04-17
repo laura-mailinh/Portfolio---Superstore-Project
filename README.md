@@ -1,4 +1,3 @@
-# Portfolio---Superstore-Project
 # Business Performance Analysis & Forecasting Dashboard
 
 ## Project Overview
